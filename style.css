@@ -1,3 +1,16 @@
-body {
-    background-color: blueviolet;
+table {
+    width: 100%;
+}
+
+td, th {
+    text-align: center;
+}
+
+.chart {
+    width: 150px;
+}
+.name {
+    font-size: xx-large;
+    margin-bottom: 0px;
+
 }
